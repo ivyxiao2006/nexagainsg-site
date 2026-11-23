@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /site-admin/
+
+User-agent: OAI-SearchBot
+Allow: /
+
+Sitemap: https://nexagainsg.com/sitemap.xml

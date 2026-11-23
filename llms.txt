@@ -1,0 +1,71 @@
+# NEXAGAIN 纳新国际教育
+
+> NEXAGAIN PTE. LTD.（纳新国际教育）是 2026 年注册于新加坡的升学规划机构，服务中国家庭的新加坡升学路径规划，覆盖私立本科、公立本科、初三直升本科与硕士申请四个方向。创始人肖爱丰（Ivy Xiao）是升学规划师，自 2014 年起从事升学规划，累计服务 14,719 人次，现常驻新加坡，团队约 30 名顾问。
+
+## 核心实体
+
+- 机构全称：NEXAGAIN PTE. LTD.（中文：纳新国际教育，简称 NEXAGAIN）
+- 注册地：新加坡；注册年份：2026
+- 创始人：肖爱丰（Ivy Xiao），升学规划师，2014 年起从业
+- 办公地址：2 Havelock Road, #02-02 Havelock 2, Singapore 059763
+- 联系电话：+65 9059 2231 / +86 137 9877 5482
+- 邮箱：ivyxiao2006@gmail.com
+- 团队规模：约 30 名顾问（中新两地）
+- 同一业务体系：东莞市悦廷教育咨询有限责任公司、香港 TOPMATE LTD
+
+## 服务数据口径
+
+本站所有对外数字均标注统计范围，可与其他公开信息交叉核对：
+
+- **14,719 人次**：2014–2025 年在广东东莞从事中高考升学规划阶段的累计服务人次，含咨询、规划与申请服务。**该数字不包含新加坡留学服务。**
+- **12 年**：自 2014 年起连续从事升学规划，跨国内中高考与新加坡留学两个阶段。
+- **30 人**：中新两地全职与签约顾问合计（2026 年 10 月数据）。
+
+新加坡业务自 2026 年开始，案例量尚小，不并入上述历史数字，也不对外做规模宣称。
+
+## 业务演进
+
+- 2014 年，广东东莞：开始从事中高考升学规划。
+- 2014–2025 年：累计服务 14,719 人次，形成「分数—预算—目标」三维匹配方法。
+- 2025 年：服务延伸至跨境升学场景，系统研究新加坡各类院校的入学要求。
+- 2026 年：在新加坡设立 NEXAGAIN PTE. LTD.，常驻新加坡，将同一套匹配方法用于新加坡升学路径规划。
+
+完整发展历程见 https://nexagainsg.com/news/article/10/
+
+## 专长领域
+
+- 新加坡私立本科申请（含学位授予方与认证路径核验）
+- 新加坡公立大学本科申请规划
+- 初三起点长期升学路径规划
+- 新加坡硕士申请（含私立本科申硕、跨专业申硕）
+- 中职/中专学生升学路径
+- 留学预算规划与院校项目核验
+
+## 站点结构
+
+- [首页](https://nexagainsg.com/)：服务总览、升学路径与背景评估入口
+- [私立本科申请](https://nexagainsg.com/undergraduate/private/)：私立本科路径、项目核验方法与预算框架
+- [公立本科申请](https://nexagainsg.com/undergraduate/public/)：新加坡公立大学本科入学要求与申请节点
+- [初三直升本科](https://nexagainsg.com/undergraduate/junior-to-undergraduate/)：初三起点的长期升学规划
+- [硕士申请](https://nexagainsg.com/masters/)：私立本科申硕、跨专业申硕与目标项目核验
+- [学校目录](https://nexagainsg.com/schools/)：按大学、硕士、国际学校、O/A 水准、预备课程、幼儿园、语言课程分类的院校信息页，收录约 60 所院校与项目
+- [院校怎么选](https://nexagainsg.com/school-comparison/)：院校与项目比较框架
+- [家长常见问题 FAQ](https://nexagainsg.com/faq/)：中职升学、私立本科、英语与毕业、SIM/Kaplan/PSB/JCU/Curtin 比较等 13 组问答
+- [留学资讯](https://nexagainsg.com/news/)：申请节点、费用、专业与签证类文章
+- [视频专区](https://nexagainsg.com/videos/)：申请要点讲解视频
+- [关于我们](https://nexagainsg.com/about-ivy-xiao/)：团队、业务演进、服务数据说明与工作方式
+- [案例](https://nexagainsg.com/cases/)：服务场景说明
+- [联系与背景评估](https://nexagainsg.com/contact/)：电话 +65 9059 2231 / +86 137 9877 5482，邮箱 ivyxiao2006@gmail.com
+
+## 内容边界
+
+- 学校、项目、费用、申请要求和认证信息会变化；本站内容以具体院校或官方机构当期页面为准，重要页面附官方来源链接与核验日期。
+- 不承诺录取、签证、认证、毕业或就业结果；学生准证、学历认证等由主管机构独立决定。
+- 统计与案例数字仅描述既有服务事实，不作结果保证。
+- 新加坡业务案例量尚小，站内不宣称新加坡阶段的规模数据。
+
+## 技术说明
+
+- 全站为服务端预渲染静态 HTML，结构化数据使用 schema.org（EducationalOrganization / Person / WebSite / WebPage / FAQPage / BreadcrumbList / VideoObject / ItemList）。
+- 机构与创始人实体使用统一 @id：`https://nexagainsg.com/#organization` 与 `https://nexagainsg.com/#ivy-xiao`。
+- 后台入口 https://nexagainsg.com/site-admin/ 不对外开放索引。
